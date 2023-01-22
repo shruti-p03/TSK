@@ -1,0 +1,4 @@
+-practised some java qquestions
+-completed loops of java
+-completed partial architecture of k8s
+-watched some random videos of remote work
