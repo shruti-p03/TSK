@@ -1,0 +1,3 @@
+- worked on the annusal percentage assignment of the steepgraph
+- watched k*s video, and learnt somewhat concept of the YAML
+- got to know about the groupby(), function and it's use in the python language 
